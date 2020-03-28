@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/MainMenu.unity
+    guid: 79afa7463c698704483e74b780df8ba3
+  - enabled: 1
+    path: Assets/Fishing Game.unity
+    guid: a6879933b4a1f704c8f4574b05dc81e3
+  - enabled: 1
+    path: Assets/Leaderboard.unity
+    guid: 89aff32f029926341abc083321711ba8
+  - enabled: 1
+    path: Assets/Store.unity
+    guid: 46fbb3a09276c304fa14d2788ca7b422
+  - enabled: 0
+    path: Assets/Game.unity
+    guid: 8a64a7c8672f5ec4d876968aecbd6581
+  m_configObjects: {}
